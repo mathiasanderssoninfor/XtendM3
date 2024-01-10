@@ -1,6 +1,6 @@
   /**
   * README
-  * This extension is being used to add record in table EXTRFI
+  * This extension is being used to add record in table EXTRFI - V2
   *
   * Name: EXT007MI.Add
   * Description: Add record in EXTRFI table
